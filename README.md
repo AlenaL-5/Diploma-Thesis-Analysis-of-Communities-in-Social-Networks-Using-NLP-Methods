@@ -50,7 +50,4 @@
 * Лувен networkx.png,
 * результаты применения различных методов кластеризации.xlsx.
 
-**Все блокноты запускаются вручную последовательно, сначала collection of initial data, затем comparison_of_post_texts, а после application_of_clustering_algorithms.**   
-* результаты применения различных методов кластеризации.xlsx.
-
 **Все блокноты запускаются вручную последовательно, сначала collection of initial data, затем comparison\_of\_post\_texts, а после application\_of\_clustering\_algorithms.** 
